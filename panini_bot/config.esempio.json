@@ -1,0 +1,11 @@
+{
+  "url_base": "https://www.panini.it/shp_ita_it/",
+  "url_prodotto": "INCOLLA QUI IL LINK DEL PRODOTTO",
+  "orario_uscita": "2026-11-20 10:00:00",
+  "secondi_anticipo": 3,
+  "intervallo_ricarica": 2.0,
+  "minuti_massimi": 15,
+  "quantita": 1,
+  "metodo_pagamento": "Carta di credito",
+  "selettori": {}
+}
